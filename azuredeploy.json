@@ -92,7 +92,7 @@
       }
     },
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]",
-    "networkSecurityGroupName": "default-NSG",
+    "networkSecurityGroupName": "default-NSG"
   },
   "resources": [
     {

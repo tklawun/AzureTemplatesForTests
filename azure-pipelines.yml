@@ -23,6 +23,3 @@ steps:
     deploymentMode: 'Incremental'
     adminUsername: 'AdminTklaw'
     adminPassword: 'Passw0rd!'
-
-
-
