@@ -19,6 +19,6 @@ steps:
     ResourceGroupName: 'AzureTemplatesForTests'
     location: 'West Europe'
     templateLocation: 'Linked artifact'
-    csmFile: 'CreateAzureStorage/azuredeploy.json'
+    csmFile: 'azuredeploy.json'
     deploymentMode: 'Incremental'
 
