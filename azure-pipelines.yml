@@ -21,5 +21,4 @@ steps:
     templateLocation: 'Linked artifact'
     csmFile: 'azuredeploy.json'
     deploymentMode: 'Incremental'
-    adminUsername: 'AdminTklaw'
-    adminPassword: 'Passw0rd!'
+  
