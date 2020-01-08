@@ -21,6 +21,7 @@
         "description": "User name for the Virtual Machine."
       }
     },
+    
     "authenticationType": {
       "type": "string",
       "defaultValue": "sshPublicKey",
